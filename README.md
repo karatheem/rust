@@ -1,1 +1,3 @@
 This is my journey in learning the Rust programming language. May it be fortuitous.
+
+Changelog 0.0.1 Setting up GitHub to run with VSCode. At the same time, I'm in VSCode editing this via Vim for some reason...
